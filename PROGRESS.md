@@ -6,10 +6,10 @@
 - [x] Fase 1: Intake Interview
 - [x] Fase 2: Brainstorm
 - [x] Fase 2.5: Research Depth Assessment
-- [ ] Fase 3: Market Research
-- [ ] Fase 3.5a: Research Verification
-- [ ] Fase 3.5: Research Gate (Go/No-Go)
-- [ ] Fase 4: Strategy
+- [x] Fase 3: Market Research
+- [x] Fase 3.5a: Research Verification
+- [x] Fase 3.5: Research Gate (Go/No-Go)
+- [x] Fase 4: Strategy
 - [ ] Fase 5: Brand
 - [ ] Fase 6: Product
 - [ ] Fase 7: Financial
