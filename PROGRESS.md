@@ -10,7 +10,7 @@
 - [x] Fase 3.5a: Research Verification
 - [x] Fase 3.5: Research Gate (Go/No-Go)
 - [x] Fase 4: Strategy
-- [ ] Fase 5: Brand
+- [x] Fase 5: Brand
 - [ ] Fase 6: Product
 - [ ] Fase 7: Financial
 - [ ] Fase 8: Validation
