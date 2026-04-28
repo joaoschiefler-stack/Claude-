@@ -12,7 +12,7 @@
 - [x] Fase 4: Strategy
 - [x] Fase 5: Brand
 - [x] Fase 6: Product
-- [ ] Fase 7: Financial
+- [x] Fase 7: Financial
 - [ ] Fase 8: Validation
 
 ## Notas de Sessão
