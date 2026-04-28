@@ -13,7 +13,7 @@
 - [x] Fase 5: Brand
 - [x] Fase 6: Product
 - [x] Fase 7: Financial
-- [ ] Fase 8: Validation
+- [x] Fase 8: Validation
 
 ## Notas de Sessão
 
