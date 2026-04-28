@@ -4,8 +4,8 @@
 ## Checklist de Fases
 
 - [x] Fase 1: Intake Interview
-- [ ] Fase 2: Brainstorm
-- [ ] Fase 2.5: Research Depth Assessment
+- [x] Fase 2: Brainstorm
+- [x] Fase 2.5: Research Depth Assessment
 - [ ] Fase 3: Market Research
 - [ ] Fase 3.5a: Research Verification
 - [ ] Fase 3.5: Research Gate (Go/No-Go)
