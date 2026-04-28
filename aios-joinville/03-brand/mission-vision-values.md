@@ -5,19 +5,19 @@
 
 ## Opções de Nome
 
-Cinco opções com racional. Escolha uma ou combine elementos.
+Critério: marca de agência de IA que escala além do serviço atual. Não amarrada a "voz", "clínica" ou qualquer nicho específico. Formato `????.ai`.
 
-| Nome | Pronúncia | Racional | Tom |
-|------|-----------|---------|-----|
-| **Vocall** | vo-CALL | Voz + Call. Clean, soa tech sem soar robótico. Funciona em inglês e português. | Profissional, moderno |
-| **Atenda** | a-TEN-da | Verbo direto — "atenda sua clínica". Comunica o serviço na própria palavra. | Direto, confiável |
-| **Alô** | a-LÔ | A primeira palavra de toda ligação telefônica. Todo brasileiro entende imediatamente. Simples e memorável. | Familiar, humano |
-| **Pronta** | PRON-ta | "Sempre pronta para atender". Sugere disponibilidade 24h sem falar em IA. Tom humano. | Caloroso, confiável |
-| **Toque** | TO-que | O toque do telefone. Evoca o canal (voz) sem jargão de tech. Único, fácil de lembrar. | Criativo, distinto |
+| Nome | Racional | Tom |
+|------|---------|-----|
+| **nexo.ai** | "Nexo" = conexão/vínculo em português. Sugere que você conecta negócios à IA. Escalável para qualquer serviço futuro. | Profissional, inteligente |
+| **rumo.ai** | "Rumo" = direção/destino. Você ajuda negócios a avançar com IA. Metáfora de movimento sem ser genérico. | Forward-looking, confiável |
+| **foco.ai** | "Foco" = foco. Simples, direto, funciona em qualquer contexto. Diz que você entrega resultado específico. | Clean, direto |
+| **vetor.ai** | "Vetor" = direção + magnitude. Tom mais técnico, soa como empresa séria de tecnologia. | Tech-forward, premium |
+| **pulso.ai** | "Pulso" = pulso/ritmo vital. Sugere que você mantém o negócio funcionando. Mais criativo e memorável. | Criativo, humano |
 
-**Minha recomendação:** **Vocall** ou **Atenda**.
-- Vocall: melhor se você quiser expandir para outros verticais no futuro (não fica preso a "clínica")
-- Atenda: melhor se quiser comunicar o serviço direto no nome, sem explicação
+**Minha recomendação:** **nexo.ai** ou **rumo.ai**
+- nexo.ai: mais versátil, funciona para qualquer serviço de IA agora e no futuro
+- rumo.ai: mais emocional, comunica transformação e direção — bom para pitch e história de marca
 
 ---
 

@@ -50,10 +50,10 @@
 
 ✅ Proativo, transparente, oferece solução.
 
-### Bio/descrição do serviço (Instagram ou site futuro)
-> "Secretária virtual de voz para clínicas odontológicas. Atende 24h, agenda consultas e reduz faltas — por menos do que você paga de encargos trabalhistas."
+### Bio/descrição da agência (Instagram ou site futuro)
+> "Implementamos IA nos processos do seu negócio — começando pelo atendimento. Resultado mensurável, sem você precisar entender de tecnologia."
 
-✅ Direto, comparação de custo, claro.
+✅ Genérico o suficiente para escalar, específico o suficiente para comunicar valor.
 
 ---
 

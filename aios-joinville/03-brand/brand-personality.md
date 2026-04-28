@@ -60,8 +60,8 @@ Você ainda não precisa de logo ou site. Mas quando chegar lá:
 
 Quando você decidir o nome, atualiza aqui. As opções estão em `mission-vision-values.md`.
 
-Sugestão de como decidir: fala os 5 nomes em voz alta como se estivesse se apresentando.
-> "Oi, sou o [Nome], da **Vocall**."
-> "Oi, sou o [Nome], da **Atenda**."
+Sugestão de como decidir: fala os 5 nomes em voz alta como se estivesse se apresentando a um cliente maior daqui 2 anos.
+> "Oi, sou o [seu nome], da **nexo.ai**."
+> "Oi, sou o [seu nome], da **rumo.ai**."
 
-O que soou mais natural e profissional — esse é o seu nome.
+Critério: qual soa bem tanto para um dentista em Joinville hoje quanto para um CEO de empresa média em São Paulo daqui 2 anos? Esse é o seu nome.
