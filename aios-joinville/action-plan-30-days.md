@@ -24,10 +24,10 @@
 
 **Objetivo:** Gravar o vídeo demo e enviar as primeiras 100 DMs.
 
-- [ ] Gravar vídeo de 60s mostrando ligação real para o demo (tela do celular + áudio)
-- [ ] Editar no CapCut ou similar — legendar em português
-- [ ] Montar lista de 100 dentistas no Instagram: buscar "dentista [cidade]", verificar se tem telefone ou WhatsApp no perfil
-- [ ] Enviar 20–25 DMs/dia com mensagem personalizada (usar template do `tone-of-voice.md`)
+- [x] Gravar vídeo de 60s mostrando ligação real para o demo (tela do celular + áudio)
+- [ ] Editar no CapCut — legendar em português (opcional mas recomendado)
+- [ ] Montar lista de 100 dentistas no Instagram: buscar "dentista joinville", "dentista [bairro]", verificar se tem telefone ou WhatsApp no perfil
+- [ ] Enviar 15–20 DMs/dia com mensagem personalizada (ver scripts em `cold-outreach-playbook.md`)
 - [ ] Registrar numa planilha simples: enviado / lido / respondeu / pediu demo / desinteressado
 - [ ] **Critério para avançar:** pelo menos 5 respostas em 100 DMs
 
@@ -58,6 +58,32 @@
 - [ ] Configurar agente com dados reais da clínica
 - [ ] Testar internamente antes de ativar
 - [ ] **Critério de sucesso do mês:** 1 cliente pagante com setup ativo
+
+---
+
+---
+
+## Rotina Diária de Prospecção
+
+**Almoço (12:45–13:30)**
+- Responder mensagens recebidas desde a noite
+- Enviar 5 DMs novos (Script 1)
+- Cold calls: 3–5 ligações para clínicas abertas (Script 3)
+
+**16:50–20:00 → indisponível (deslocamento + treino)**
+
+**Após treino (20:00–22:00) — bloco principal**
+- 20:00–20:30: Montar lista do dia seguinte (10–15 dentistas no Instagram)
+- 20:30–21:00: Curtir 1 post / ver Stories dos prospects de amanhã
+- 21:00–22:00: Enviar 10–15 DMs novos + follow-ups pendentes
+- WhatsApp texto para quem tem número público: ok até 21:30
+
+**Sábado (10:00–12:00)**
+- Melhor janela da semana para cold calls (clínicas abertas)
+- DMs em volume maior (mais tempo disponível)
+- Montar lista da semana seguinte
+
+**Meta:** 15–20 contatos novos por dia (seg–qui)
 
 ---
 
